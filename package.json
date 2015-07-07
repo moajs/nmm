@@ -4,6 +4,7 @@
   "description": "node moa manager",
   "main": "index.js",
   "scripts": {
+    "start": "npm publish .",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "preferGlobal": "true",
