@@ -6,6 +6,10 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "preferGlobal": "true",
+  "bin": {
+    "nmm": "index.js"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/moajs/nmm.git"
@@ -15,5 +19,9 @@
   "bugs": {
     "url": "https://github.com/moajs/nmm/issues"
   },
-  "homepage": "https://github.com/moajs/nmm#readme"
+  "homepage": "https://github.com/moajs/nmm#readme",
+  "dependencies": {
+    "commander": "^2.8.1",
+    "shelljs": "^0.5.1"
+  }
 }

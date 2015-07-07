@@ -7,6 +7,12 @@ node moa manager
 
 以entity作为模块，发布到npmjs.org上，以期达到复用的目的
 
+### 初始化
+
+```
+nmm init
+```
+
 ### 抽取插件
 
 ```
