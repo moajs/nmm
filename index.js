@@ -6,6 +6,8 @@
 
 var program = require('commander');
 
+console.log('nmm is a Node Moa plugin Manager')
+
 program
   .version('0.0.1')
   .command('init [otherDirs...]')
