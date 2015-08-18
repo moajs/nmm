@@ -1,7 +1,7 @@
 {
   "name": "nmm",
-  "version": "1.0.2",
-  "description": "node moa manager",
+  "version": "1.0.3",
+  "description": "node moa plugin manager",
   "main": "index.js",
   "scripts": {
     "start": "npm publish .",
